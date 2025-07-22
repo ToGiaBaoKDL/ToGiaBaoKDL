@@ -16,14 +16,17 @@ I'm **To Gia Bao**, a Data Engineer Intern passionate about building data pipeli
 
 #### 📚 [Automated Manga Data Collection Pipeline](https://github.com/ToGiaBaoKDL/mangadex-pipeline)  
 A scalable pipeline using Airflow, Docker, and Databricks to collect and store 80K+ manga titles and 30M+ images in PostgreSQL and MongoDB.
+
 🔗 [Live Demo](https://tgb-mangadex-pipeline.streamlit.app/)
 
 #### 🔢 [OCR-Based Sudoku Solver](https://github.com/ToGiaBaoKDL/Sudoku_OCR)  
 An OCR-powered tool using PaddleOCR and OpenCV to detect, extract, and solve Sudoku puzzles from images—supporting both handwritten and printed grids.
+
 🔗 [Live Demo](https://sudoku-ocr-tgb.streamlit.app/)
 
 #### 🏦 [Timo Digital Bank Case Study](https://github.com/ToGiaBaoKDL/TimoBankCaseStudy)  
 A data engineering simulation for a modern digital bank. Includes data generation, quality checks, risk monitoring, dashboarding, and orchestration—aligned with Vietnamese banking regulation 2345/QĐ-NHNN.  
+
 🔗 [Live Demo](https://tgb-timobankcasestudy.streamlit.app/)
 
 ---
